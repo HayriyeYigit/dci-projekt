@@ -17,6 +17,17 @@ Steinbock	    22.12 - 20.01
 Wassermann	    21.01 - 18.02
 Fisch	        19.02 - 20.03
 
+Aufgabe 1:
+Gebe der Funktion `getSternzeichen` zwei Parameter: `day` und `month`. 
+
+Aufgabe 2:
+Überprüfe ob das gegebene Datum im Bereich des Sternzeichens Widder liegt, das vom 21. März bis zum 19. April geht.
+
+Aufgabe 3:
+ Wenn das Datum in diesem Bereich liegt, gibt die Funktion den String "Widder" zurück. 
+
+
+
 console.log(getSternzeichen(21, 3)); //"Widder" 
 console.log(getSternzeichen(20, 4)); //"Stier" 
 console.log(getSternzeichen(21, 5)); //"Zwillinge" 
