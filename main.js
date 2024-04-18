@@ -28,13 +28,13 @@ function getSternzeichen(day, month) {
     }
 }
 
-// Aufruf
+// Aufruf=>
 
 console.log(getSternzeichen(21, 3)); //"Widder" 
 console.log(getSternzeichen(20, 4)); //"Stier" 
 console.log(getSternzeichen(21, 5)); //"Zwillinge" 
 console.log(getSternzeichen(21, 6)); //"Krebs" 
-console.log(getSternzeichen(22, 7)); //Löwe
+console.log(getSternzeichen(22, 7)); //"Löwe"
 console.log(getSternzeichen(22, 8)); //"Jungfrau"       
 console.log(getSternzeichen(22, 9)); //"Waage" 
 console.log(getSternzeichen(23, 10)); //"Skorpion" 
